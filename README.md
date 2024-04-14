@@ -1,7 +1,7 @@
 # 📜 Smart Contracts of eVow
 In our commitment to transparency and decentralization, eVow.io proudly presents the smart contracts powering our platform to the blockchain community.
 
-Available Options:
+Available Options:<br\>
 Banking
 Employment
 Peer to Peer
