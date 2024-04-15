@@ -1,5 +1,5 @@
 # 📜 Smart Contracts of eVow
-In our commitment to transparency and decentralization, eVow.io proudly presents the smart contracts powering our platform to the blockchain community.
+At eVow.io, transparency and decentralization are at the core of our values. We're excited to unveil the smart contracts powering our platform, embodying our commitment to openness and innovation. Join us as we empower the blockchain community with unrestricted access to cutting-edge technology and advancements in the field.
 
 Available Options:
 - Banking
@@ -14,4 +14,4 @@ Available Options:
   - Coming Soon
 
 # 🛠️ Language
-We've selected Vyper as our primary language for its emphasis on security. Its minimalist features make it highly readable and auditable. We welcome you to review the code!
+We've opted for Vyper as our core language, prioritizing security at every turn. With its minimalist structure, Vyper code is exceptionally legible and easily audited, fostering trust and transparency within our platform. Explore our codebase today and witness our unwavering commitment to crafting secure, dependable smart contract solutions.
