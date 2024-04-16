@@ -1,3 +1,7 @@
+# @dev Implementation of One tiered Employment contract
+# CREATOR
+# @c1im4cu5 - thebrotherscain@gmail.com
+
 from vyper.interfaces import ERC20
 
 # Define the state variables
