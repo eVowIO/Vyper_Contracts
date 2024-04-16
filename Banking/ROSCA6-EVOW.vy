@@ -1,3 +1,12 @@
+# @dev Implementation of 6 Person Rotating Savings and Credit Assoc.
+# CREATOR
+# @c1im4cu5 - thebrotherscain@gmail.com
+
+# See ROSCA in Banking
+# Owner Inputs list of addresses to participate
+# Each address must submit individual deposit each session
+# Contract will designate funds to each address in the provided list 
+# in the same sequence of entry. 
 
 from vyper.interfaces import ERC20
 
