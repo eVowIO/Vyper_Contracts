@@ -1,3 +1,6 @@
+# @dev Implementation of 4 Person Last Man Standing/ Battle Royale
+# CREATOR
+# @c1im4cu5 - thebrotherscain@gmail.com
 
 from vyper.interfaces import ERC20
 
