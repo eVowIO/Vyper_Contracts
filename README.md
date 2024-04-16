@@ -11,7 +11,7 @@ Available Options:
   - LSM - Last Man Standing or Battle Royale
   - VS - Group versus Group
 - Other
-  - Coming Soon
+  - ERC-20 Cross Chain Interoperability Protocol Implementation via event "Bridge" logging
 
 # 🛠️ Language
 We've opted for Vyper as our core language, prioritizing security at every turn. With its minimalist structure, Vyper code is exceptionally legible and easily audited, fostering trust and transparency within our platform. Explore our codebase today and witness our unwavering commitment to crafting secure, dependable smart contract solutions.
