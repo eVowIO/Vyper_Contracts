@@ -1,3 +1,11 @@
+# @dev Implementation of Savings Contract
+# CREATOR
+# @c1im4cu5 - thebrotherscain@gmail.com
+
+# How To
+# User Inputs amount of blocks before contract will release funds.
+# Contract accepts funds, but will not distribute until designated
+# block number has passed. 
 
 from vyper.interfaces import ERC20
 
